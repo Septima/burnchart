@@ -1,11 +1,12 @@
 export default {
   // Firebase.
   "firebase": {
-    apiKey: "AIzaSyD_kfzkAPA87PoRFIZa8JEzZkT66CqUDpU",
-    authDomain: "burnchart.firebaseapp.com",
-    databaseURL: "https://burnchart.firebaseio.com",
-    storageBucket: "firebase-burnchart.appspot.com",
-    messagingSenderId: "185222099419"
+    apiKey: "AIzaSyCCKsElvsdFV2lsNm4bD_gBDSOzVm6ufLg",
+    authDomain: "burnchart-septima-dk.firebaseapp.com",
+    databaseURL: "https://burnchart-septima-dk.firebaseio.com",
+    projectId: "burnchart-septima-dk",
+    storageBucket: "burnchart-septima-dk.appspot.com",
+    messagingSenderId: "98542507304"
   },
   // Data source provider.
   "provider": "github",
